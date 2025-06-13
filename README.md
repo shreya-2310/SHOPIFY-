@@ -35,9 +35,4 @@ Shopify Sales & Customer Funnel Dashboard – Power BI
 - Data Modeling and Slicing
 - Geographic Mapping
 
----
 
-## 📂 Files Included
-- `Shopify_Sales_Dashboard.pbix` – Power BI project file
-- `dashboard_preview.png` – Dashboard screenshot preview
-- (Optional) `shopify_data
